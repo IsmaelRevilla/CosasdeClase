@@ -318,3 +318,4 @@ SELECT
 
 --realizzamos cambios en el repositrio de un compañero.
 select * from Cliente;
+select * from Detalle_Pedido
